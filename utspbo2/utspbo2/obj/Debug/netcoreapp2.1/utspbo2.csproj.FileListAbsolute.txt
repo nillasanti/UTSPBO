@@ -1,0 +1,11 @@
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\bin\Debug\netcoreapp2.1\utspbo2.deps.json
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\bin\Debug\netcoreapp2.1\utspbo2.runtimeconfig.json
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\bin\Debug\netcoreapp2.1\utspbo2.runtimeconfig.dev.json
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\bin\Debug\netcoreapp2.1\utspbo2.dll
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\bin\Debug\netcoreapp2.1\utspbo2.pdb
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\obj\Debug\netcoreapp2.1\utspbo2.csprojAssemblyReference.cache
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\obj\Debug\netcoreapp2.1\utspbo2.csproj.CoreCompileInputs.cache
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\obj\Debug\netcoreapp2.1\utspbo2.AssemblyInfoInputs.cache
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\obj\Debug\netcoreapp2.1\utspbo2.AssemblyInfo.cs
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\obj\Debug\netcoreapp2.1\utspbo2.dll
+C:\Users\Nillasanti Puspita N\source\repos\utspbo2\utspbo2\obj\Debug\netcoreapp2.1\utspbo2.pdb
